@@ -39,3 +39,8 @@
 
 # debug information files
 *.dwo
+
+# GCC Compiled Module.
+gcm.cache
+*.gcm
+
